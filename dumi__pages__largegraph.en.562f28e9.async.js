@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_antv_g6_site=self.webpackChunk_antv_g6_site||[]).push([[6906],{48285:function(e,t,a){a.r(t);var s=a(37230);t.default=s.default}}]);
